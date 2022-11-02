@@ -1,4 +1,4 @@
-# CEH-Practical-Resources
+# CEH Practical Resources
 
 ## Important Resources
 
